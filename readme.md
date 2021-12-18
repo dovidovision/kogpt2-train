@@ -1,6 +1,6 @@
 # Ko-GPT2 model
 We use Ko-GPT2 model to generate cat diary from clip model's label
-Our model weights is accessable from huggingface __larcane/kogpt2-cat-diary__
+Our model weights is accessible from huggingface __larcane/kogpt2-cat-diary__
 
 ## Requirements
 ```
